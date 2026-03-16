@@ -34,7 +34,8 @@ Example Features
 | `host_response_rate`    | Host responsiveness percentage            |
 
 Project Workflow
-1️⃣ Exploratory Data Analysis (EDA)
+
+1️⃣ Exploratory Data Analysis (EDA) : 
 The first step consisted of exploring the dataset to better understand its structure and characteristics:
 - Distribution of numerical variables
 - Missing values analysis
@@ -43,7 +44,7 @@ The first step consisted of exploring the dataset to better understand its struc
 - Data visualization (histograms, heatmaps, etc.)
 These insights guided the preprocessing and feature engineering steps.
 
-2️⃣ Data Preprocessing
+2️⃣ Data Preprocessing : 
 Several preprocessing techniques were applied:
 - Handling missing values
 - Encoding categorical variables
@@ -52,14 +53,14 @@ Several preprocessing techniques were applied:
 - Date feature transformation
 - Feature selection
 
-3️⃣ Feature Engineering
+3️⃣ Feature Engineering : 
 New variables were created to improve model performance, such as:
 - Host experience (based on host_since)
 - Review activity indicators
 - Processed amenities features
 - Location-related insights
   
-4️⃣ Machine Learning Models
+4️⃣ Machine Learning Models :
 Several supervised learning models were tested and compared:
 - Linear Regression
 - Decision Tree Regressor
@@ -67,7 +68,7 @@ Several supervised learning models were tested and compared:
 - Gradient Boosting Models
 The models were evaluated using appropriate regression metrics.
 
-5️⃣ Model Evaluation
+5️⃣ Model Evaluation : 
 Model performance was assessed using:
 - RMSE (Root Mean Squared Error)
 - Train/Test split validation
