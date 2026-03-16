@@ -76,6 +76,7 @@ Model performance was assessed using:
 The best-performing model was then used to generate predictions for the test dataset.
 
 Project Structure
+
 Airbnb-Price-Prediction/
 │
 
