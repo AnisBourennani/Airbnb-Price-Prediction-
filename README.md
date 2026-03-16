@@ -78,6 +78,7 @@ The best-performing model was then used to generate predictions for the test dat
 Project Structure
 
 Airbnb-Price-Prediction/
+
 │
 
 ├── project.ipynb              # Main notebook (EDA + modeling)
